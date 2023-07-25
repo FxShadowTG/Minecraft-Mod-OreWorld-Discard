@@ -1,0 +1,108 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "qnute:BedrockSword": {
+            "textures": "textures/items/bedrockSword"
+        },
+        "qnute:bedrockIngot": {
+            "textures": "textures/items/bedrockIngot"
+        },
+        "qnute:bedrockPickaxe": {
+            "textures": "textures/items/bedrockPickaxe"
+        },
+        "qnute:bedrockPickaxePro": {
+            "textures": "textures/items/bedrockPickaxePro"
+        },
+        "qnute:bedrockSmashStone": {
+            "textures": "textures/items/bedrocksmashstoneingot"
+        },
+        "qnute:bottle": {
+            "textures": "textures/items/Bottle"
+        },
+        "qnute:copperPickaxe": {
+            "textures": "textures/items/copperPickaxe"
+        },
+        "qnute:copperPickaxePro": {
+            "textures": "textures/items/copperPickaxePro"
+        },
+        "qnute:copperSword": {
+            "textures": "textures/items/copperSword"
+        },
+        "qnute:diamondPickaxePro": {
+            "textures": "textures/items/diamondPickaxePro"
+        },
+        "qnute:enderIngot": {
+            "textures": "textures/items/EnderIngot"
+        },
+        "qnute:enderPicakxePro": {
+            "textures": "textures/items/enderPickaxePro"
+        },
+        "qnute:enderPickaxe": {
+            "textures": "textures/items/enderPickaxe"
+        },
+        "qnute:enderSword": {
+            "textures": "textures/items/enderSword"
+        },
+        "qnute:gear": {
+            "textures": "textures/items/gear"
+        },
+        "qnute:glazeIngot": {
+            "textures": "textures/items/glazeIngot"
+        },
+        "qnute:glazePickaxe": {
+            "textures": "textures/items/glazePickaxe"
+        },
+        "qnute:glazePickaxePro": {
+            "textures": "textures/items/glazePickaxePro"
+        },
+        "qnute:glazeSword": {
+            "textures": "textures/items/glazeSword"
+        },
+        "qnute:goldenPickaxePro": {
+            "textures": "textures/items/goldenPickaxePro"
+        },
+        "qnute:hasteBottle": {
+            "textures": "textures/items/OrePlusEat"
+        },
+        "qnute:jumpBottle": {
+            "textures": "textures/items/JumpPlusEat"
+        },
+        "qnute:levelStone": {
+            "textures": "textures/items/levelstoneitem"
+        },
+        "qnute:luckyBottle": {
+            "textures": "textures/items/LuckyPlusEat"
+        },
+        "qnute:netherPickaxePro": {
+            "textures": "textures/items/netherPickaxePro"
+        },
+        "qnute:rainbowIngot": {
+            "textures": "textures/items/rainbowIngot"
+        },
+        "qnute:rainbowPickaxe": {
+            "textures": "textures/items/rainbowPickaxe"
+        },
+        "qnute:rainbowPickaxePro": {
+            "textures": "textures/items/rainbowPickaxePro"
+        },
+        "qnute:rainbowSword": {
+            "textures": "textures/items/rainbowSword"
+        },
+        "qnute:redIngot": {
+            "textures": "textures/items/redIngot"
+        },
+        "qnute:redPickaxe": {
+            "textures": "textures/items/redPickaxe"
+        },
+        "qnute:redPickaxePro": {
+            "textures": "textures/items/BooldPickaxePro"
+        },
+        "qnute:redSword": {
+            "textures": "textures/items/redSword"
+        },
+        "qnute:speedBottle": {
+            "textures": "textures/items/SpeedPlusEat"
+        }
+    },
+    "texture_name": "atlas.items"
+}

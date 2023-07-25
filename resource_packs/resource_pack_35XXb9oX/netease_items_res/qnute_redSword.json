@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:redSword"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:redSword",
+            "register_to_create_menu": true
+        }
+    }
+}

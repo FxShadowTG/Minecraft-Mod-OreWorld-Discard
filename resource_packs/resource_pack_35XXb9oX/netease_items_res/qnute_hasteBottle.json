@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:hasteBottle",
+            "minecraft:use_animation": "drink"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "qnute:hasteBottle",
+            "register_to_create_menu": true
+        }
+    }
+}

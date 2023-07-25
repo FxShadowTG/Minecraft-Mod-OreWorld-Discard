@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 2000,
+            "netease:weapon": {
+                "attack_damage": 13,
+                "enchantment": 12,
+                "level": 3,
+                "speed": 15,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:enderPickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}

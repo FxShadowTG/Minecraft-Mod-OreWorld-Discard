@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:foil": false,
+            "minecraft:food": {
+                "can_always_eat": true,
+                "effects": [
+                    {
+                        "amplifier": 4,
+                        "chance": 1.0,
+                        "duration": 60,
+                        "name": "speed"
+                    }
+                ],
+                "nutrition": 5,
+                "using_converts_to": "qnute:bottle"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:use_duration": 20.0
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "qnute:speedBottle",
+            "register_to_create_menu": true
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:glazePickaxe"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:glazePickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}

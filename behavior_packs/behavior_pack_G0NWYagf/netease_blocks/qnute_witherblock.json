@@ -1,0 +1,21 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:destroy_time": 32767.0,
+            "minecraft:explosion_resistance": {
+                "value": 3600000.0
+            },
+            "minecraft:loot": {
+
+            },
+            "netease:render_layer": {
+                "value": "blend"
+            }
+        },
+        "description": {
+            "identifier": "qnute:witherblock",
+            "register_to_creative_menu": true
+        }
+    }
+}

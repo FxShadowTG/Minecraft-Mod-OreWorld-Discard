@@ -1,0 +1,27 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "qnute:RainbowOre": {
+            "textures": "textures/blocks/RainbowOre"
+        },
+        "qnute:bedrocksmashstone": {
+            "textures": "textures/blocks/bedrocksmashstone"
+        },
+        "qnute:enderOre": {
+            "textures": "textures/blocks/enderOre"
+        },
+        "qnute:glazeOre": {
+            "textures": "textures/blocks/glazeOre"
+        },
+        "qnute:redOre": {
+            "textures": "textures/blocks/redOre"
+        },
+        "qnute:witherblock": {
+            "textures": "textures/blocks/witherblock"
+        },
+        "qnute:witherstone": {
+            "textures": "textures/blocks/witherstone"
+        }
+    },
+    "texture_name": "atlas.terrain"
+}

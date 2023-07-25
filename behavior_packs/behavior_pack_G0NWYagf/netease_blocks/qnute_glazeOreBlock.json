@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:destroy_time": 15.0,
+            "minecraft:explosion_resistance": {
+                "value": 10.0
+            },
+            "netease:tier": {
+                "destroy_special": true,
+                "digger": "pickaxe",
+                "level": 1
+            }
+        },
+        "description": {
+            "identifier": "qnute:glazeOreBlock",
+            "register_to_creative_menu": true
+        }
+    }
+}

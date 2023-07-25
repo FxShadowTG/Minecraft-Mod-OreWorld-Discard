@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 1500,
+            "netease:weapon": {
+                "attack_damage": 12,
+                "enchantment": 10,
+                "level": 3,
+                "speed": 10,
+                "type": "pickaxe"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:redPickaxe",
+            "register_to_create_menu": true
+        }
+    }
+}

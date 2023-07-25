@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 6000,
+            "netease:weapon": {
+                "attack_damage": 25,
+                "enchantment": 10,
+                "level": 5,
+                "speed": 100,
+                "type": "pickaxe"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:bedrockPickaxePro",
+            "register_to_create_menu": true
+        }
+    }
+}

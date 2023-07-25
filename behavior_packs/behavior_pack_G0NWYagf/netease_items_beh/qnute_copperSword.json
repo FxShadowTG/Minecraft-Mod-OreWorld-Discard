@@ -1,0 +1,20 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 500,
+            "netease:weapon": {
+                "attack_damage": 8,
+                "enchantment": 30,
+                "level": 0,
+                "speed": 5,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:copperSword",
+            "register_to_create_menu": true
+        }
+    }
+}

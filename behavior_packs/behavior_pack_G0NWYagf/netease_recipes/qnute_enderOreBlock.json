@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "qnute:enderOreBlock"
+        },
+        "input": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:enderOreBlock"
+        },
+        "output": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:enderIngot"
+        },
+        "tags": [
+            "furnace"
+        ]
+    }
+}

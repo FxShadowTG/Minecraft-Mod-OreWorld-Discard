@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "qnute:rainbowOreBlock"
+        },
+        "input": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:rainbowOreBlock"
+        },
+        "output": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:rainbowIngot"
+        },
+        "tags": [
+            "furnace"
+        ]
+    }
+}

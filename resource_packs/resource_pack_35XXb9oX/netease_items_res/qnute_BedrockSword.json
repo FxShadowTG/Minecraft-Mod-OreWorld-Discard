@@ -1,0 +1,15 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:hover_text_color": "light_purple",
+            "minecraft:icon": "qnute:BedrockSword",
+            "minecraft:render_offsets": "apple"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:BedrockSword",
+            "register_to_create_menu": true
+        }
+    }
+}

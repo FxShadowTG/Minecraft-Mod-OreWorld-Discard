@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:bottle"
+        },
+        "key": {
+            "H": {
+                "data": 0,
+                "item": "minecraft:glass"
+            },
+            "I": {
+                "data": 0,
+                "item": "minecraft:cobblestone"
+            }
+        },
+        "pattern": [
+            "IHI",
+            "IHI",
+            "IHI"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:bottle"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

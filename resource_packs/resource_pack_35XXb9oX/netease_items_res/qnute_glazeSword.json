@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:glazeSword"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:glazeSword",
+            "register_to_create_menu": true
+        }
+    }
+}

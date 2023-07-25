@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:bedrockPickaxePro"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:bedrockPickaxePro",
+            "register_to_create_menu": true
+        }
+    }
+}

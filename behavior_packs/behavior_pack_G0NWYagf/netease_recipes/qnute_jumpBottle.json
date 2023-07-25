@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:jumpBottle"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "qnute:bottle"
+            },
+            "E": {
+                "data": 0,
+                "item": "qnute:glazeIngot"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:jumpBottle"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

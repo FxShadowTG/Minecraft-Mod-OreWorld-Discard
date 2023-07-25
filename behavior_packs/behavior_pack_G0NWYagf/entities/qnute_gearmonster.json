@@ -1,0 +1,158 @@
+{
+    "format_version": "1.13.0",
+    "minecraft:entity": {
+        "component_groups": {
+
+        },
+        "components": {
+            "minecraft:attack": {
+                "damage": 6
+            },
+            "minecraft:behavior.avoid_mob_type": {
+                "entity_types": [
+                    {
+                        "filters": {
+                            "any_of": [
+                                {
+                                    "subject": "other",
+                                    "test": "is_family",
+                                    "value": "ocelot"
+                                },
+                                {
+                                    "subject": "other",
+                                    "test": "is_family",
+                                    "value": "cat"
+                                }
+                            ]
+                        },
+                        "max_dist": 16,
+                        "sprint_speed_multiplier": 1,
+                        "walk_speed_multiplier": 1
+                    }
+                ],
+                "ignore_visibility": true,
+                "max_dist": 25.0,
+                "priority": 0
+            },
+            "minecraft:behavior.circle_around_anchor": {
+                "goal_radius": 1.0,
+                "height_above_target_range": [
+                    20.0,
+                    40.0
+                ],
+                "height_change_chance": 350,
+                "height_offset_range": [
+                    -4.0,
+                    5.0
+                ],
+                "priority": 3,
+                "radius_change_chance": 250,
+                "radius_range": [
+                    5.0,
+                    15.0
+                ]
+            },
+            "minecraft:behavior.nearest_attackable_target": {
+                "entity_types": [
+                    {
+                        "filters": {
+                            "subject": "other",
+                            "test": "is_family",
+                            "value": "player"
+                        },
+                        "max_dist": 64
+                    }
+                ],
+                "must_see": false,
+                "must_see_forget_duration": 0.5,
+                "priority": 1,
+                "reselect_targets": true,
+                "scan_interval": 15,
+                "target_search_height": 75.0,
+                "within_radius": 64
+            },
+            "minecraft:behavior.swoop_attack": {
+                "delay_range": [
+                    10.0,
+                    20.0
+                ],
+                "priority": 2
+            },
+            "minecraft:breathable": {
+                "breathes_air": true,
+                "breathes_water": false,
+                "suffocate_time": 0,
+                "total_supply": 15
+            },
+            "minecraft:collision_box": {
+                "height": 0.5,
+                "width": 0.9
+            },
+            "minecraft:experience_reward": {
+                "on_death": "query.last_hit_by_player ? 5 : 0"
+            },
+            "minecraft:follow_range": {
+                "max": 64,
+                "value": 64
+            },
+            "minecraft:health": {
+                "max": 20,
+                "value": 20
+            },
+            "minecraft:hurt_on_condition": {
+                "damage_conditions": [
+                    {
+                        "cause": "lava",
+                        "damage_per_tick": 4,
+                        "filters": {
+                            "operator": "==",
+                            "subject": "self",
+                            "test": "in_lava",
+                            "value": true
+                        }
+                    }
+                ]
+            },
+            "minecraft:loot": {
+                "table": "loot_tables/entities/phantom.json"
+            },
+            "minecraft:movement": {
+                "value": 1.8
+            },
+            "minecraft:movement.glide": {
+                "speed_when_turning": 0.2,
+                "start_speed": 0.1
+            },
+            "minecraft:nameable": {
+
+            },
+            "minecraft:persistent": {
+
+            },
+            "minecraft:physics": {
+                "has_gravity": false
+            },
+            "minecraft:pushable": {
+                "is_pushable": true,
+                "is_pushable_by_piston": true
+            },
+            "minecraft:scale": {
+                "value": 4.0
+            },
+            "minecraft:type_family": {
+                "family": [
+                    "phantom",
+                    "undead",
+                    "monster",
+                    "mob"
+                ]
+            }
+        },
+        "description": {
+            "identifier": "qnute:gearmonster",
+            "is_experimental": false,
+            "is_spawnable": true,
+            "is_summonable": true
+        }
+    }
+}

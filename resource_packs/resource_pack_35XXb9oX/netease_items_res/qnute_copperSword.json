@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:copperSword"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:copperSword",
+            "register_to_create_menu": true
+        }
+    }
+}

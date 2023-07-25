@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:netherPickaxePro"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:netherPickaxePro",
+            "register_to_create_menu": true
+        }
+    }
+}

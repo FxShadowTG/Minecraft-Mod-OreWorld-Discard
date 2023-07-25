@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:enderSword"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:enderSword",
+            "register_to_create_menu": true
+        }
+    }
+}

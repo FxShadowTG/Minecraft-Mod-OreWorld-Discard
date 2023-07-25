@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:witherBlock"
+        },
+        "key": {
+            "E": {
+                "data": 1,
+                "item": "minecraft:skull"
+            },
+            "I": {
+                "data": 0,
+                "item": "qnute:witherstone"
+            }
+        },
+        "pattern": [
+            "III",
+            "IEI",
+            "III"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:witherblock"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:enderIngot"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "qnute:enderIngot",
+            "register_to_create_menu": true
+        }
+    }
+}

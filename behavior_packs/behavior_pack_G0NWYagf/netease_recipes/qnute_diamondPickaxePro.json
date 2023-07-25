@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:diamondPickaxePro"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "qnute:levelStone"
+            },
+            "C": {
+                "data": 0,
+                "item": "minecraft:diamond_pickaxe"
+            }
+        },
+        "pattern": [
+            "  C",
+            " B ",
+            "C  "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:diamondPickaxePro"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

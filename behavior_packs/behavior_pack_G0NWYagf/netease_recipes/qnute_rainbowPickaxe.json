@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:rainbowPickaxe"
+        },
+        "key": {
+            "D": {
+                "data": 0,
+                "item": "qnute:rainbowIngot"
+            },
+            "E": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            " DD",
+            " ED",
+            "E  "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:rainbowPickaxe"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

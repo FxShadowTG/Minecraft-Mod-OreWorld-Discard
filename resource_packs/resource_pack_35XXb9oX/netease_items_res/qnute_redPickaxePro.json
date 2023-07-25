@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:redPickaxePro"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "qnute:redPickaxePro",
+            "register_to_create_menu": true
+        }
+    }
+}

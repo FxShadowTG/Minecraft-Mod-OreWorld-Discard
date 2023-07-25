@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:bedrockPickaxePro"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "qnute:levelStone"
+            },
+            "C": {
+                "data": 0,
+                "item": "qnute:bedrockPickaxe"
+            }
+        },
+        "pattern": [
+            "  C",
+            " B ",
+            "C  "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:bedrockPickaxePro"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:gear"
+        },
+        "key": {
+            "C": {
+                "data": 0,
+                "item": "minecraft:redstone"
+            },
+            "E": {
+                "data": 0,
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "pattern": [
+            " E ",
+            "ECE",
+            " E "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:gear"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

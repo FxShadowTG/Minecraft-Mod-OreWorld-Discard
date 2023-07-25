@@ -1,0 +1,23 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:block": {
+        "components": {
+            "minecraft:destroy_time": 30.0,
+            "minecraft:explosion_resistance": {
+                "value": 3600000.0
+            },
+            "minecraft:loot": {
+                "table": "loot_tables/lootbedrockSmashBlock.json"
+            },
+            "netease:tier": {
+                "destroy_special": true,
+                "digger": "pickaxe",
+                "level": 3
+            }
+        },
+        "description": {
+            "identifier": "qnute:bedrockSmashStoneBlock",
+            "register_to_creative_menu": true
+        }
+    }
+}

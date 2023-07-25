@@ -1,0 +1,14 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "qnute:luckyBottle",
+            "minecraft:use_animation": "drink"
+        },
+        "description": {
+            "category": "Items",
+            "identifier": "qnute:luckyBottle",
+            "register_to_create_menu": true
+        }
+    }
+}

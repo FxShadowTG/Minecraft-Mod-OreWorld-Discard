@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "qnute:copperPickaxePro"
+        },
+        "key": {
+            "B": {
+                "data": 0,
+                "item": "qnute:levelStone"
+            },
+            "C": {
+                "data": 0,
+                "item": "qnute:copperPickaxe"
+            }
+        },
+        "pattern": [
+            "  C",
+            " B ",
+            "C  "
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "qnute:copperPickaxePro"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}

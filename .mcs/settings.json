@@ -1,0 +1,16 @@
+{
+    "Arena.Component.Namespace": "qnute",
+    "FirstTabSetting": 0,
+    "ShortItemSettings": [
+        "resource_packs\\resource_pack_35XXb9oX\\ui",
+        "behavior_packs\\behavior_pack_G0NWYagf\\Presets",
+        "behavior_packs\\behavior_pack_G0NWYagf\\Parts",
+        "behavior_packs\\behavior_pack_G0NWYagf\\BoxData",
+        "resource_packs\\resource_pack_35XXb9oX\\effects",
+        "resource_packs\\resource_pack_35XXb9oX\\models",
+        "resource_packs\\resource_pack_35XXb9oX\\textures"
+    ],
+    "Uluru.autoLayerDict": {
+
+    }
+}

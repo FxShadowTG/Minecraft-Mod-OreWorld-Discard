@@ -1,0 +1,39 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "qnute:bedrockSmashStoneBlock": {
+        "sound": "stone",
+        "textures": "qnute:bedrocksmashstone"
+    },
+    "qnute:enderOreBlock": {
+        "sound": "stone",
+        "textures": "qnute:enderOre"
+    },
+    "qnute:glazeOreBlock": {
+        "sound": "stone",
+        "textures": "qnute:glazeOre"
+    },
+    "qnute:rainbowOreBlock": {
+        "textures": "qnute:RainbowOre"
+    },
+    "qnute:redOreBlock": {
+        "sound": "stone",
+        "textures": "qnute:redOre"
+    },
+    "qnute:witherblock": {
+        "textures": {
+            "down": "qnute:witherstone",
+            "east": "qnute:witherblock",
+            "north": "qnute:witherblock",
+            "south": "qnute:witherblock",
+            "up": "qnute:witherstone",
+            "west": "qnute:witherblock"
+        }
+    },
+    "qnute:witherstone": {
+        "textures": "qnute:witherstone"
+    }
+}
